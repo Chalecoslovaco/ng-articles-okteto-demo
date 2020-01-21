@@ -1,0 +1,6 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: okteto/ng-okteto-template
+spec:
+  replicas: 1
