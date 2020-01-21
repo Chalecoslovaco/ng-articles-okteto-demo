@@ -4,8 +4,8 @@
 
 export const environment = {
   production: false,
-  apirUrl: 'http://localhost:3000/api',
-  assetsUrl: 'http://localhost:3000'
+  apirUrl: 'https://articles-back-service-marco2704.cloud.okteto.net/api',
+  assetsUrl: 'https://articles-back-service-marco2704.cloud.okteto.net'
 };
 
 /*
