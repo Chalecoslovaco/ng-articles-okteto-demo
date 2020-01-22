@@ -1,4 +1,4 @@
-name: ng-okteto-sample
+name: articles-front-deployment
 image: node:10
 workdir: /src
 command: ["bash"]
